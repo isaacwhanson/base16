@@ -124,6 +124,7 @@ To add your own scheme, submit a pull request to https://github.com/chriskempson
 * [Pasque](https://github.com/Misterio77/base16-pasque-scheme) maintained by [Misterio77](https://github.com/Misterio77)
 * [Porple](https://github.com/AuditeMarlow/base16-porple-scheme) maintained by [AuditeMarlow](https://github.com/AuditeMarlow)
 * [Purpledream](https://github.com/archmalet/base16-purpledream-scheme) maintained by [archmalet](https://github.com/archmalet)
+* [Qualia](https://github.com/isaacwhanson/base16-qualia-scheme) maintained by [isaacwhanson](https://github.com/isaacwhanson)
 * [Rebecca](https://github.com/vic/base16-rebecca) maintained by [vic](https://github.com/vic)
 * [Sandcastle](https://github.com/gessig/base16-sandcastle-scheme) maintained by [gessig](https://github.com/gessig)
 * [Snazzy](https://github.com/h404bi/base16-snazzy-scheme) maintained by [h404bi](https://github.com/h404bi)
